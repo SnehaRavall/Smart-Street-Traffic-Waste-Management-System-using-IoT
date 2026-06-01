@@ -18,5 +18,5 @@ This project presents an IoT-based solution for smart urban management by integr
 
 ## Project Resources
 - Project Presentation (PPT)
+- Project Overview
 - Project Documentation
-- Demonstration Video
