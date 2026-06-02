@@ -1,7 +1,9 @@
 # IoT-Based Smart City Management System
 
 ## Overview
-This project presents an IoT-based solution for smart urban management by integrating street lighting, traffic monitoring, and waste management into a unified system.
+•	Developed an integrated smart road system using Arduino UNO, ultrasonic sensors, motors, LEDs, resistors, switches, and IoT-based programming in Arduino IDE to monitor traffic density, automate street lighting, and track garbage-bin levels. 
+•	Implemented sensor-based automation to enhance road safety, reduce electricity consumption, and improve cleanliness. 
+•	Created a realistic 3D city model using Vectary to visualize the smart-road layout and system architecture.
 
 ## Features
 - Smart street light automation
